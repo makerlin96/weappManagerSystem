@@ -1,4 +1,4 @@
-# lunhui-enterprise企业安全开发框架
+# GzStarry企业安全开发框架
 
 #### 介绍
 一个基于SpringBoot、shiro、mybatis-plus、redis的轻量级、前后端分离、防范xss攻击、拥有分布式锁的企业快速开发框架
