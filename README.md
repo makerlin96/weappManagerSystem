@@ -64,7 +64,7 @@
 ##### 2.启动
 
 - 推荐使用idea，安装lombok插件后，使用idea导入maven项目
-- 将lunhui.sql导入到mysql中，修改`application-dev.yml`更改 `datasource.url、user、password`
+- 将starry.sql导入到mysql中，修改`application-dev.yml`更改 `datasource.url、user、password`
 - Redis需要自行安装Redis服务，端口密码默认
 - 通过`WebApplication`启动项目后台接口，`ApiApplication` 启动项目前端接口
 
