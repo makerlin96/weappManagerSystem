@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.gzstarry.common.utils.JwtUtils",
+      "sourceType": "com.gzstarry.common.utils.JwtUtils"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.expire",
+      "type": "java.lang.Long",
+      "sourceType": "com.gzstarry.common.utils.JwtUtils",
+      "defaultValue": 0
+    },
+    {
+      "name": "jwt.header",
+      "type": "java.lang.String",
+      "sourceType": "com.gzstarry.common.utils.JwtUtils"
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.gzstarry.common.utils.JwtUtils"
+    }
+  ],
+  "hints": []
+}
