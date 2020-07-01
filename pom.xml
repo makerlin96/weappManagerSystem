@@ -42,7 +42,7 @@
 		<kaptcha.version>0.0.9</kaptcha.version>
 		<mybatisplus.version>3.2.0</mybatisplus.version>
 		<mysql.version>5.1.48</mysql.version>
-		<quartz.version>2.3.0</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<qcloud.cos.version>4.4</qcloud.cos.version>
 		<qiniu.version>7.2.14</qiniu.version>
 		<shiro.version>1.3.2</shiro.version>
