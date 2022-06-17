@@ -33,7 +33,7 @@
 		<datasource.version>2.5.6</datasource.version>
 		<easypoi.version>4.0.0</easypoi.version>
 		<fastdfs.version>1.26.7</fastdfs.version>
-		<fastjson.version>1.2.31</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<google.zxing.version>3.4.0</google.zxing.version>
 		<hutool.version>5.0.6</hutool.version>
 		<jwt.version>0.9.1</jwt.version>
